@@ -99,8 +99,8 @@ The project highlights the importance of transitioning to renewable energy sourc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Energy_Consumption_Analysis.git
-
+   git clone https://github.com/refusetoloose/AESO-ENERGY-CONSUMPTION-ANALYSIS.git
+   
 2. Navigate to the project directory:
    cd Energy_Consumption_Analysis
 

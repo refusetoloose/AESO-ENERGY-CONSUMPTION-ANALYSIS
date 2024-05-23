@@ -108,10 +108,10 @@ The project highlights the importance of transitioning to renewable energy sourc
    jupyter notebook
 
 ## Contributors
-**Linta Jose George**
-**George Agbakpe**
-**Kamalpreet Singh**
-**Prajwal Nagaraj**
+1. **Linta Jose George**
+2. **George Agbakpe**
+3. **Kamalpreet Singh**
+4. **Prajwal Nagaraj**
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
